@@ -21,6 +21,7 @@ public class RPLcodingFibonaci {
 		System.out.println();
 	}
 
+
 	private static int fibo(int n)
 	{
 		int f;
